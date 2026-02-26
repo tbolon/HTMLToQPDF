@@ -1,5 +1,3 @@
-﻿using System.Net;
-
 namespace HTMLToQPDF.Utils
 {
     internal static class ImgUtils
